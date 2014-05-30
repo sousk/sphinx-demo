@@ -13,7 +13,7 @@ Contents:
 
 .. raw:: html
 
-    <link rel="stylesheet" type="text/css" href="/_static/css/mario.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="/sphinx-demo/_static/css/mario.css" media="screen">
     <div class="wrapper">
     <div id="parent">
       <div id="mario-retro-icon">
